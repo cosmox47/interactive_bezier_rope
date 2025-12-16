@@ -1,5 +1,5 @@
 # interactive_bezier_curve
-
+Screen Recording Link: https://drive.google.com/file/d/1E3v6jKdyvJozEdPtHCNdgv-kqLxEOuya/view?usp=drive_link
 Overview
 This project implements an interactive cubic Bézier curve simulation that behaves like a physics-based rope, responding to mouse movement input. The implementation includes manual Bézier mathematics, spring-damping physics, and real-time tangent visualization - all built from scratch without using any prebuilt graphics or physics libraries.
 
